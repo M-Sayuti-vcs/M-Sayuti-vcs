@@ -1,0 +1,4 @@
+BELAJAR PEMROGRAMAN:
+1.juli:belajar Html dan CSS
+2.agustus:belajar JavaScript dan framework css serta mengulang Html dan CSS
+3.september:baru selesai belajar framework dan lanjut belajar git & github

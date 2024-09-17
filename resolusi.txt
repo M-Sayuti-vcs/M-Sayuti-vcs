@@ -5,3 +5,4 @@ BELAJAR PEMROGRAMAN:
 
 Rencana:
 1.selesaikan pembelajaran untuk front end
+2.lanjut menyelesaikan belajar javascript 

@@ -1,8 +1,0 @@
-BELAJAR PEMROGRAMAN:
-1.juli:belajar Html dan CSS
-2.agustus:belajar JavaScript(dasar dan Dom) dan framework css serta mengulang Html dan CSS
-3.september:baru selesai belajar framework dan lanjut belajar git & github
-
-Rencana:
-1.selesaikan pembelajaran untuk front end
-2.lanjut menyelesaikan belajar javascript 

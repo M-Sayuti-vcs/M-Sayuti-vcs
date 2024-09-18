@@ -1,6 +1,9 @@
 RENCANA TAMBAH BUKU:
 1.Dragon ball volume 7
 2.uzumaki-junji ito
+ * tomie-junji ito
+   *part 1,dan
+   *part 2
 3.novel akiyoshi rikako
   * Holly Mother
   * giselle
